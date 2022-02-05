@@ -6,7 +6,7 @@ import ReactDOM from 'react-dom';
 // Create a React component 
 
 const App = () => {
-    return <div>Bubu</div>;
+    return <div>Fruf</div>;
 };
 
 
